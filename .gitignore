@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+.Python
+env/
+dist/
+downloads/
+lib/
+
+*.manifest
+*.spec
+
+.env
+.venv
